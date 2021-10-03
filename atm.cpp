@@ -3,7 +3,7 @@ int main(void)
 {
 int p,m,w,f,c;
 m = 25000;
-printf("Welcome to State bank of India\n");
+printf("Welcome to Laxmi Chit Fund\n");
 printf("Enter your 4 Digit pin number:\n ");
 scanf("%d",&p);
 if(p==2222)
